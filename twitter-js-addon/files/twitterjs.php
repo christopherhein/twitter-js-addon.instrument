@@ -13,7 +13,7 @@
 * @link       http://orchestramvc.chrishe.in/docs/instruments/twitter
 *
 */
-class Twitter {
+class Twitterjs {
 	protected $_username;
 	protected $_avatar_size;
 	protected $_count;

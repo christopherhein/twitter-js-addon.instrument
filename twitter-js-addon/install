@@ -21,7 +21,7 @@ $addons = "/lib/addons/";
 $css = "/frontend/stylesheets/";
 $js = "/frontend/javascripts/";
 $files = array(
-	'twitter.php',
+	'twitterjs.php',
 	'tweet.css',
 	'jquery.tweet.js'
 );

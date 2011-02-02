@@ -1,0 +1,20 @@
+--------------------------------------
+
+Twitter-Addon Instrument
+
+To finish the installation and use this instrument you have a few more steps to take:
+
+  1) Add the following to config/autoload.php in the // Framework Section
+  
+      $autoload['addons'] = array(
+        "twitterjs"
+      );
+
+  3) Lastly Add this in any .html.orc file
+
+      <?= $twitterjs->feed(); ?>
+      
+      
+Enjoy!
+
+--------------------------------------
